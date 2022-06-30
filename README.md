@@ -27,6 +27,10 @@ Then i saved and i uploaded my data into power bi, where i also carried out nece
 ![power qwery editor](https://user-images.githubusercontent.com/105246702/176570854-cd6952d7-231f-4f7d-b1c0-a9e7a2a353ea.png)
 ![ready](https://user-images.githubusercontent.com/105246702/176570960-5c7774f8-1841-4010-9d42-3afd2b8845e1.png)
 
+I also made sure my data had a good relationship and it was well modelled
+![data model](https://user-images.githubusercontent.com/105246702/176578803-7a45cd32-2977-4c0c-9261-2c9b263fca7b.png)
+
+
 I created a slicer containing; Months, Years, Region, and customers segment which can be applied to the visuals on the board.
 
 # Data Visualisation
