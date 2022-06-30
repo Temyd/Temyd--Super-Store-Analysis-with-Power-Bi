@@ -31,7 +31,9 @@ I created a slicer containing; Months, Years, Region, and customers segment whic
 
 # Data Visualisation
 ![SALES ANA](https://user-images.githubusercontent.com/105246702/176577219-214e53a2-d78f-418e-80fe-af31674ad487.png)
+
 ![PROFIT ANA](https://user-images.githubusercontent.com/105246702/176577257-a101b7de-5dcb-42ec-a2d8-bcc6a87fead2.png)
+
 [Interact with Dashboard Here](https://app.powerbi.com/groups/me/reports/60a264c5-fd6a-42c5-9cd6-e9d8c2af6dd2/ReportSectionee17cf0a56513da0e005)
 
 # Findings 🔍
