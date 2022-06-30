@@ -34,7 +34,7 @@ I created a slicer containing; Months, Years, Region, and customers segment whic
 ![PROFIT ANA](https://user-images.githubusercontent.com/105246702/176577257-a101b7de-5dcb-42ec-a2d8-bcc6a87fead2.png)
 [Interact with Dashboard Here](https://app.powerbi.com/groups/me/reports/60a264c5-fd6a-42c5-9cd6-e9d8c2af6dd2/ReportSectionee17cf0a56513da0e005)
 
-# Finding 🔍
+# Findings 🔍
 From 2014 till 2017 the total sales was 2.30 Million 
 ![PFOFIT FOR 2014 TO 2017](https://user-images.githubusercontent.com/105246702/176571626-2b9e0baa-1b8f-42d6-b94f-7c433992c89a.png)
 and profit was 286.40K ![PFOFIT FOR 2014 TO 2017](https://user-images.githubusercontent.com/105246702/176571754-10e4982c-9219-4eb3-ad54-74f1748c57ee.png)
